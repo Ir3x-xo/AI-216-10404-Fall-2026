@@ -1,54 +1,42 @@
-# Lab 01 — GitHub Setup & First Push
+# Lab 02 – Python Logic & Control Structures
 
-## What I Completed
+## Brief Problem Description
 
-- Configured Git
-- Created my AI-216 coursework repository
-- Added my first Python script
-- Created a `.gitignore`
-- Pushed my work to GitHub
+In this lab, I practiced solving small real-world problems using Python variables, data types, conditional statements, and loops. The tasks included tracking expenses, recommending an internet package, monitoring temperatures, and checking loan eligibility.
 
-## Key Git Commands Used
+## Tasks Completed
 
-- `git init`
-- `git status`
-- `git add`
-- `git commit`
-- `git remote add`
-- `git push`
-- `git diff`
-- `git log --oneline`
+### Task 1 – Daily Expense Tracker
+Calculated total daily expenses and checked whether the expenses exceeded a budget of 1500 PKR.
 
-## What I Learned
+### Task 2 – Internet Data Package Advisor
+Used user input and conditional statements to recommend a data package based on usage.
 
-- Git tracks changes in a project.
-- Commits provide a history of changes.
-- GitHub stores and shares the repository remotely.
+### Task 3 – Temperature Monitoring System
+Used a for loop and counters to count normal and high temperature readings.
 
-## AI Engineering Relevance
+### Task 4 – Loan Eligibility Simulation
+Used lists, loops, and compound conditions to count eligible applicants.
 
-Version control supports:
+## Concepts Practiced
 
-- reproducibility
-- traceability
-- collaboration
+- Variables and data types
+- Arithmetic operations
+- Input handling
+- `if`, `elif`, and `else`
+- `for` loops
+- Counters
+- Lists
+- Compound conditions using `and`
 
-## AI Usage Log
+## Challenges Faced
 
-### Tool Used
+One challenge was understanding how to combine loops with conditional statements. I also had to carefully check the conditions so that each input or record was classified correctly.
 
-ChatGPT
+## AI/ML Relevance
 
-### What I Asked
+These programming concepts are important for AI and data analysis because programs often process data, apply rules, and produce decisions. Loops and conditions are basic building blocks for processing datasets and implementing rule-based logic.
 
-- Help me understand and complete the AI-216 Lab 01 GitHub setup step by step.
-- Explain the Git/GitHub workflow for a beginner.
+## Written Reflection
 
-### What I Used From the Response
-
-- Guidance for repository setup, Git commands, file structure, and documentation.
-
-### What I Verified or Changed Myself
-
-- I checked the repository, Git installation, Git identity, and Python script on my computer.
-- I should review the reflection above and change it if it does not describe my own understanding.
+This lab helped me improve my logical thinking by converting real-world problems into Python programs. I practiced using conditions and loops to process different types of data. One challenge was making sure the conditions covered the required cases correctly. These concepts are useful in AI and data analysis because they help programs process information and make rule-based decisions.
